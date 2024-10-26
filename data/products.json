@@ -1,0 +1,17 @@
+[
+    {
+        "id": "product1",
+        "name": "Product gg",
+        "downloadLink": "http://example.com/download/product1"
+    },
+    {
+        "id": "product2",
+        "name": "Product Two",
+        "downloadLink": "http://example.com/download/product2"
+    },
+    {
+        "id": "product3",
+        "name": "Product three",
+        "downloadLink": "http://example.com/download/product3"
+    }
+]
